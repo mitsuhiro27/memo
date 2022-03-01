@@ -37,6 +37,3 @@ elsif memo_type == "2"
 else 
   puts "エラー"
 end
-     
-     
-     
